@@ -18,8 +18,9 @@ Dentro do diretório do projeto, você encontrará os seguintes arquivos:
 index.html: O arquivo principal contendo a estrutura do formulário em HTML.
 style.css: O arquivo CSS contendo estilos e estilizações para o formulário.
 assets/: Diretório contendo imagens utilizadas no projeto (caso aplicável).
-Contribuições:
--------------------------------------------------------------------------------------------------------
+
+
+### Contribuições:
 Contribuições são bem-vindas! Se você deseja contribuir para o projeto, por favor, siga estes passos:
 
 Fork este repositório para sua própria conta.
